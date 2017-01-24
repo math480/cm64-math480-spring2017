@@ -1,1 +1,1 @@
-# cm64-math480-spring2017
+#Colby's coursework for Math 480 at UH Manoa.
